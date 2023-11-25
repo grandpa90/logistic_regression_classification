@@ -6,7 +6,7 @@ This project is focused on learning machine learning techniques and implementing
 
 ## Overview
 
-This Project focus on multiple linear regression Model
+This Project focus Logistic Linear Regression
 
 ## Table of Contents
 
@@ -34,18 +34,18 @@ Example:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/grandpa90/machine-learning-project.git
+    git clone https://github.com/grandpa90/logistic_linear_regression.git
     ```
 
 2. Install dependencies:
     if applicable
     ```bash
-    cd machine-learning-project
+    cd logistic_linear_regression
     pip install -r requirements.txt
     ```
 
 3. Run the application:
 
     ```bash
-    python linear_regression.py
+    python logistic_linear_regression.py
     ```
